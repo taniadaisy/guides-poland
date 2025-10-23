@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Гайд: Документи та проживання</title>
+<style>
+body {font-family:'Montserrat',sans-serif; background:#fffafc; padding:40px; color:#333; line-height:1.6;}
+a {color:#b30059; text-decoration:none;}
+</style>
+</head>
+<body>
+<h1>Документи та легальне проживання 📄</h1>
+<p>Тут буде інформація про карту побиту, карту сталого побиту, karta cukr і т.д.</p>
+<p><a href="index.html">← Назад на головну</a></p>
+</body>
+</html>
